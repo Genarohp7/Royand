@@ -1,0 +1,8 @@
+<svg width="308" height="84" viewBox="0 0 308 84" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Royand</title>
+  <desc id="desc">Logotipo provisional de Royand con símbolo de estructura y crecimiento.</desc>
+  <path d="M22 56V22H49C57.837 22 65 29.1634 65 38V62" stroke="#CBC3B6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M22 56H53C65.15 56 75 46.1503 75 34V22" stroke="#B65D35" stroke-width="5" stroke-linecap="round"/>
+  <path d="M22 56L75 22" stroke="#CBC3B6" stroke-width="2.5" stroke-linecap="round" opacity=".72"/>
+  <text x="101" y="55" fill="#F4EFE7" font-family="Manrope, Montserrat, Arial, sans-serif" font-size="42" font-weight="600" letter-spacing=".04em">ROYAND</text>
+</svg>

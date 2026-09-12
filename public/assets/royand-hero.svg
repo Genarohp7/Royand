@@ -1,0 +1,43 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1920" height="1080" fill="#0C2333"/>
+  <radialGradient id="g1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1320 260) rotate(128) scale(900 620)">
+    <stop stop-color="#21445A"/>
+    <stop offset=".55" stop-color="#0C2333"/>
+    <stop offset="1" stop-color="#081823"/>
+  </radialGradient>
+  <rect width="1920" height="1080" fill="url(#g1)"/>
+  <path d="M-40 842C278 778 470 657 736 646C1007 635 1118 760 1392 690C1601 636 1754 478 1984 438" stroke="#CBC3B6" stroke-opacity=".17" stroke-width="2"/>
+  <path d="M-80 924C253 848 472 783 746 773C1032 763 1163 874 1422 801C1641 739 1796 583 1990 552" stroke="#CBC3B6" stroke-opacity=".1" stroke-width="2"/>
+  <g opacity=".52">
+    <path d="M1018 189L1498 115L1714 436L1395 804L907 696L798 369L1018 189Z" fill="#16384B" fill-opacity=".36" stroke="#CBC3B6" stroke-opacity=".34"/>
+    <path d="M1047 257L1447 196L1618 449L1366 731L961 641L876 385L1047 257Z" fill="#D9D0C0" fill-opacity=".07" stroke="#CBC3B6" stroke-opacity=".27"/>
+    <path d="M1112 360L1379 319L1495 472L1324 639L1042 582L989 421L1112 360Z" fill="#B65D35" fill-opacity=".17" stroke="#B65D35" stroke-opacity=".55"/>
+  </g>
+  <g stroke="#CBC3B6" stroke-opacity=".24">
+    <path d="M175 170H717M175 218H602M175 266H487M175 314H705M175 362H548"/>
+    <path d="M1564 145H1844M1516 193H1844M1582 241H1844M1464 289H1844"/>
+    <path d="M214 854H624M214 902H532M214 950H694"/>
+  </g>
+  <g stroke="#B65D35" stroke-opacity=".58" stroke-width="3">
+    <path d="M798 369L1112 360"/>
+    <path d="M907 696L1042 582"/>
+    <path d="M1498 115L1447 196"/>
+    <path d="M1714 436L1495 472"/>
+  </g>
+  <g fill="#CBC3B6" opacity=".52">
+    <circle cx="798" cy="369" r="6"/>
+    <circle cx="1112" cy="360" r="6"/>
+    <circle cx="1495" cy="472" r="6"/>
+    <circle cx="1042" cy="582" r="6"/>
+    <circle cx="907" cy="696" r="6"/>
+  </g>
+  <path d="M0 0H1920V1080H0V0Z" fill="url(#noise)" opacity=".18"/>
+  <defs>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2"/>
+    </filter>
+    <pattern id="noise" width="180" height="180" patternUnits="userSpaceOnUse">
+      <rect width="180" height="180" filter="url(#grain)" opacity=".22"/>
+    </pattern>
+  </defs>
+</svg>
