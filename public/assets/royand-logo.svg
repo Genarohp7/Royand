@@ -1,8 +1,14 @@
-<svg width="308" height="84" viewBox="0 0 308 84" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="352" height="96" viewBox="0 0 352 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Royand</title>
-  <desc id="desc">Logotipo provisional de Royand con símbolo de estructura y crecimiento.</desc>
-  <path d="M22 56V22H49C57.837 22 65 29.1634 65 38V62" stroke="#CBC3B6" stroke-width="5" stroke-linecap="round"/>
-  <path d="M22 56H53C65.15 56 75 46.1503 75 34V22" stroke="#B65D35" stroke-width="5" stroke-linecap="round"/>
-  <path d="M22 56L75 22" stroke="#CBC3B6" stroke-width="2.5" stroke-linecap="round" opacity=".72"/>
-  <text x="101" y="55" fill="#F4EFE7" font-family="Manrope, Montserrat, Arial, sans-serif" font-size="42" font-weight="600" letter-spacing=".04em">ROYAND</text>
+  <desc id="desc">Logotipo de Royand con isotipo geométrico oficial y nombre de la marca.</desc>
+  <g transform="translate(4 2)">
+    <path d="M42 0H79.5C97.5 0 112 14.5 112 32.5V33.5C112 51.5 97.5 66 79.5 66H42V0Z" fill="#B65D35"/>
+    <path d="M42 0H84C99.5 0 112 12.5 112 28V32C112 33.7 111.9 35.4 111.6 37.1L42 36V0Z" fill="#B65D35"/>
+    <path d="M42 41.8L93.8 62.2L127.2 96H83.8L72.8 63.9L42 54.7V41.8Z" fill="#CBC3B6"/>
+    <path d="M42 0V36L96 60.2L102.5 50.1L42 23.4V0Z" fill="#EFE7DB"/>
+    <path d="M4 62H42V96H4V62Z" fill="#0C2333"/>
+    <path d="M42 54.7L72.8 63.9L83.8 96H42V54.7Z" fill="#CBC3B6"/>
+    <path d="M42 36L102.5 50.1L96 60.2L42 41.8V36Z" fill="#0C2333" opacity=".12"/>
+  </g>
+  <text x="154" y="59" fill="#F7F1E6" font-family="Manrope, Montserrat, Avenir Next, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing=".035em">ROYAND</text>
 </svg>
